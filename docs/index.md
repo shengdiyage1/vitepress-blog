@@ -13,10 +13,12 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+      
+      
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing 
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
